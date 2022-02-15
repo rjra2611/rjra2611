@@ -3,7 +3,7 @@
 <h3 align="center">Founder @ AlgoBrain.in</h3>
 <h3 align="center">🚀 Software Engineer | Django Developer | Open Source ♥ | Entrepreneur | Algorithmic Trader  🚀</h3>
 <div>
-<h3 align="center">Content Writer | Machine Learning Enthusiast</h3>
+<h3 align="center">Machine Learning Enthusiast</h3>
 
 <p align="center">
   <i>Let's connect and chat!</i>
