@@ -8,7 +8,6 @@
 <p align="center">
   <i>Let's connect and chat!</i>
   <p align="center">
-    <a href="https://twitter.com/ronit_jain_" target="_blank" alt="Twitter"><img src="https://github.com/rjra2611/rjra2611/blob/main/twitter_logo.png" height="30" width="30"></a> 
     <a href="https://www.linkedin.com/in/ronitjain/" target="_blank" alt="Linkedin"><img src="https://github.com/rjra2611/rjra2611/blob/main/linkedin_logo.png" height="30" width="30"></a>
   <a href="https://ronitjain.medium.com/" target="_blank" alt="Medium"><img src="https://github.com/rjra2611/rjra2611/blob/main/medium_logo.png" height="30" width="30"></a>
     <a href="https://www.algobrain.in" target="_blank" alt="AlgoBrain"><img src="https://github.com/rjra2611/rjra2611/blob/main/algobrain-logo.jpg" height="30" width="30"></a>
