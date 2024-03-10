@@ -1,7 +1,7 @@
 <br>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ronit Jain</h1>
 <h3 align="center">Founder @ AlgoBrain.in</h3>
-<h3 align="center">🚀 Software Engineer | Django Developer | Open Source ♥ | Entrepreneur | Algorithmic Trader  🚀</h3>
+<h3 align="center">🚀 Software Engineer | Open Source ♥ | Entrepreneur 🚀</h3>
 <div>
 <h3 align="center">Machine Learning Enthusiast</h3>
 
